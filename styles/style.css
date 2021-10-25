@@ -81,8 +81,14 @@ header{
 }
 
 img{
-    width: 100px;
-    max-width: 100%;
+    position: absolute;
+  top: 7px;
+  left: 16px;
+  font-size: 18px;
+    width: 80px;
+   
+    
+
     
 
 }
