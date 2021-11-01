@@ -185,8 +185,9 @@ p{
     z-index: 1;
     top: 10px;
     left: 10px;
-    background:#6B4F4F;
+    width: 40px;
     color: #fff;
+    background: #fff;
     padding: 0.25rem 1rem;
 
 }
@@ -216,6 +217,10 @@ p{
     text-decoration: none;
     text-transform: capitalize;
     font-family: var(--Playfair);
+}
+
+.decor-title img{
+    width: 30px;
 }
 
 
